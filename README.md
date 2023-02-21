@@ -1,5 +1,5 @@
 # Pazarcik Earthquake Logistics Data
-Data from the https://www.und.org.tr/afet-destek // logistics (ready cargo data for the earthquake)
-
-
-Data: sensitive. 
+Scrape code for the data on https://www.und.org.tr/afet-destek
+- Scraping the "Yüküm Var" section for ready cargo information for earthquake victims. 
+- Mapping of the dataset. 
+- Data is sensitive. 
